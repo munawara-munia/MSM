@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emily M Alsentzer | Emily Alsentzer</title>
+    <link>https://emilyalsentzer.github.io/authors/emily-m-alsentzer/</link>
+      <atom:link href="https://emilyalsentzer.github.io/authors/emily-m-alsentzer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emily M Alsentzer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://emilyalsentzer.github.io/img/emily_headshot.jpeg</url>
+      <title>Emily M Alsentzer</title>
+      <link>https://emilyalsentzer.github.io/authors/emily-m-alsentzer/</link>
+    </image>
+    
+    <item>
+      <title>Identification of Novel Helicobacter pylori Adhesins that Bind the Host Cell Receptor Decay-Accelerating Factor (DAF)</title>
+      <link>https://emilyalsentzer.github.io/publication/alsentzeridentification/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://emilyalsentzer.github.io/publication/alsentzeridentification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

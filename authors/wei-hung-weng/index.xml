@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei-Hung Weng | Emily Alsentzer</title>
+    <link>https://emilyalsentzer.github.io/authors/wei-hung-weng/</link>
+      <atom:link href="https://emilyalsentzer.github.io/authors/wei-hung-weng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei-Hung Weng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://emilyalsentzer.github.io/img/emily_headshot.jpeg</url>
+      <title>Wei-Hung Weng</title>
+      <link>https://emilyalsentzer.github.io/authors/wei-hung-weng/</link>
+    </image>
+    
+    <item>
+      <title>Publicly available clinical BERT embeddings</title>
+      <link>https://emilyalsentzer.github.io/publication/alsentzer-2019-publicly/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://emilyalsentzer.github.io/publication/alsentzer-2019-publicly/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

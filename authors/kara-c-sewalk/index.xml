@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kara C Sewalk | Emily Alsentzer</title>
+    <link>https://emilyalsentzer.github.io/authors/kara-c-sewalk/</link>
+      <atom:link href="https://emilyalsentzer.github.io/authors/kara-c-sewalk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kara C Sewalk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://emilyalsentzer.github.io/img/emily_headshot.jpeg</url>
+      <title>Kara C Sewalk</title>
+      <link>https://emilyalsentzer.github.io/authors/kara-c-sewalk/</link>
+    </image>
+    
+    <item>
+      <title>Investigating inequities in hospital care among lesbian, gay, bisexual, and transgender (LGBT) individuals using social media</title>
+      <link>https://emilyalsentzer.github.io/publication/hswen-2018-investigating/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emilyalsentzer.github.io/publication/hswen-2018-investigating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

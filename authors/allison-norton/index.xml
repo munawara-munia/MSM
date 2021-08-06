@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Allison Norton | Emily Alsentzer</title>
+    <link>https://emilyalsentzer.github.io/authors/allison-norton/</link>
+      <atom:link href="https://emilyalsentzer.github.io/authors/allison-norton/index.xml" rel="self" type="application/rss+xml" />
+    <description>Allison Norton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://emilyalsentzer.github.io/img/emily_headshot.jpeg</url>
+      <title>Allison Norton</title>
+      <link>https://emilyalsentzer.github.io/authors/allison-norton/</link>
+    </image>
+    
+    <item>
+      <title>An algorithm developed using the Brighton Collaboration case definitions is more efficient for determining diagnostic certainty</title>
+      <link>https://emilyalsentzer.github.io/publication/joshi-2014-algorithm/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://emilyalsentzer.github.io/publication/joshi-2014-algorithm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

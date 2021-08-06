@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jose Quispe | Emily Alsentzer</title>
+    <link>https://emilyalsentzer.github.io/authors/jose-quispe/</link>
+      <atom:link href="https://emilyalsentzer.github.io/authors/jose-quispe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jose Quispe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://emilyalsentzer.github.io/img/emily_headshot.jpeg</url>
+      <title>Jose Quispe</title>
+      <link>https://emilyalsentzer.github.io/authors/jose-quispe/</link>
+    </image>
+    
+    <item>
+      <title>Monitoring Acute Diarrhea via an Electronic Surveillance System in the Peruvian Navy</title>
+      <link>https://emilyalsentzer.github.io/publication/alsentzer-2015-monitoring/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emilyalsentzer.github.io/publication/alsentzer-2015-monitoring/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

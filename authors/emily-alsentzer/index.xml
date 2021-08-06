@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emily Alsentzer</title>
+    <link>https://emilyalsentzer.github.io/authors/emily-alsentzer/</link>
+      <atom:link href="https://emilyalsentzer.github.io/authors/emily-alsentzer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emily Alsentzer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://emilyalsentzer.github.io/img/emily_headshot.jpeg</url>
+      <title>Emily Alsentzer</title>
+      <link>https://emilyalsentzer.github.io/authors/emily-alsentzer/</link>
+    </image>
+    
+    <item>
+      <title>Publicly available clinical BERT embeddings</title>
+      <link>https://emilyalsentzer.github.io/publication/alsentzer-2019-publicly/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://emilyalsentzer.github.io/publication/alsentzer-2019-publicly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extractive Summarization of EHR Discharge Notes</title>
+      <link>https://emilyalsentzer.github.io/publication/alsentzer-2018-extractive/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emilyalsentzer.github.io/publication/alsentzer-2018-extractive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating inequities in hospital care among lesbian, gay, bisexual, and transgender (LGBT) individuals using social media</title>
+      <link>https://emilyalsentzer.github.io/publication/hswen-2018-investigating/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emilyalsentzer.github.io/publication/hswen-2018-investigating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Electronic Phenotyping For Studying Patient Comorbidities</title>
+      <link>https://emilyalsentzer.github.io/publication/ling-2018-scalable/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://emilyalsentzer.github.io/publication/ling-2018-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of microbial colonization on the host proteome varies by gastrointestinal location</title>
+      <link>https://emilyalsentzer.github.io/publication/lichtman-2016-effect/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://emilyalsentzer.github.io/publication/lichtman-2016-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring Acute Diarrhea via an Electronic Surveillance System in the Peruvian Navy</title>
+      <link>https://emilyalsentzer.github.io/publication/alsentzer-2015-monitoring/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://emilyalsentzer.github.io/publication/alsentzer-2015-monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An algorithm developed using the Brighton Collaboration case definitions is more efficient for determining diagnostic certainty</title>
+      <link>https://emilyalsentzer.github.io/publication/joshi-2014-algorithm/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://emilyalsentzer.github.io/publication/joshi-2014-algorithm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
